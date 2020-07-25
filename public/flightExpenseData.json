@@ -1,0 +1,23 @@
+[
+    {
+        "name": "As of 1/12/2019", "averageCost": 4000, "amount": 645
+    },
+    {
+        "name": "As of 1/2/2020", "averageCost": 3000, "amount": 210
+    },
+    {
+        "name": "As of 1/4/2020", "averageCost": -1000, "amount": 220
+    },
+    {
+        "name": "As of 1/6/2020", "averageCost": 500, "amount": 200
+    },
+    {
+        "name": "As of 1/8/2020", "averageCost": -2000, "amount": 281
+    },
+    {
+        "name": "As of 1/10/2020", "averageCost": -250, "amount": 200
+    },
+    {
+        "name": "As of 1/12/2020", "averageCost": 3490, "amount": 210
+    }
+]

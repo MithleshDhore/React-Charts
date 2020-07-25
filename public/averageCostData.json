@@ -1,0 +1,17 @@
+[
+    {
+      "name": "0 to 6 Days", "Business": 590, "Coach": 800, "Others": 140
+    },
+    {
+      "name": "7 to 13 Days", "Business": 868, "Coach": 967, "Others": 156
+    },
+    {
+      "name": "14 to 20 Days", "Business": 1397, "Coach": 1098, "Others": 989
+    },
+    {
+      "name": "21 to 30 Days", "Business": 1480, "Coach": 1200, "Others": 1228
+    },
+    {
+      "name": "Over 30 Days", "Business": 1520, "Coach": 1108, "Others": 1100
+    }
+  ]

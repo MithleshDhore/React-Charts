@@ -1,0 +1,62 @@
+[
+    [
+        {
+            "name": "Group A",
+            "value": 400
+        },
+        {
+            "name": "Group B",
+            "value": 300
+        },
+        {
+            "name": "Group C",
+            "value": 300
+        },
+        {
+            "name": "Group D",
+            "value": 200
+        }
+    ],
+    [
+        {
+            "name": "Training",
+            "value": 100
+        },
+        {
+            "name": "Trade show",
+            "value": 300
+        },
+        {
+            "name": "Recruting",
+            "value": 100
+        },
+        {
+            "name": "Sessions",
+            "value": 80
+        },
+        {
+            "name": "Seminars",
+            "value": 40
+        },
+        {
+            "name": "Conferences",
+            "value": 30
+        },
+        {
+            "name": "Holiday",
+            "value": 50
+        },
+        {
+            "name": "External",
+            "value": 200
+        },
+        {
+            "name": "D1Internal",
+            "value": 150
+        },
+        {
+            "name": "Others",
+            "value": 50
+        }
+    ]
+]

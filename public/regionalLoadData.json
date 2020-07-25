@@ -1,0 +1,23 @@
+[
+    {
+      "name": "2018 Q4", "Pacific": 4000, "Mountain": 2400, "Plains": 1000, "Central": 590, "Northeast": 100, "Southeast": 1100
+    },
+    {
+      "name": "2019 Q1", "Pacific": 3000, "Mountain": 1398, "Plains": 2210, "Central": 790, "Northeast": 200, "Southeast": 1200
+    },
+    {
+      "name": "2019 Q2", "Pacific": 2000, "Mountain": 7800, "Plains": 2290, "Central": 190, "Northeast": 300, "Southeast": 1300
+    },
+    {
+      "name": "2019 Q3", "Pacific": 2780, "Mountain": 3908, "Plains": 2000, "Central": 510, "Northeast": 400, "Southeast": 1400
+    },
+    {
+      "name": "2019 Q4", "Pacific": 1890, "Mountain": 4800, "Plains": 2181, "Central": 720, "Northeast": 500, "Southeast": 1700
+    },
+    {
+      "name": "2020 Q1", "Pacific": 2390, "Mountain": 3800, "Plains": 2500, "Central": 410, "Northeast": 600, "Southeast": 1900
+    },
+    {
+      "name": "2020 Q2", "Pacific": 3490, "Mountain": 4300, "Plains": 2100, "Central": 300, "Northeast": 700, "Southeast": 1000
+    }
+]
