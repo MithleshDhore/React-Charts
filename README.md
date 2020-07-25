@@ -29,7 +29,7 @@ and then browse to http://localhost:3000.
 
 ## Authors
 
-- **Mithlesh DHore** - _Initial work_ - [PurpleBooth](https://github.com/MithleshDhore)
+- **Mithlesh Dhore** - _Initial work_ - [MithleshDhore](https://github.com/MithleshDhore)
 
 ## License
 
